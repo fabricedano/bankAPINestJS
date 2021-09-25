@@ -25,16 +25,16 @@ Think of your personal bank account experience When in doubt, go for the simples
 
 # React FrontEnd Dependance
 
-[BankAccountkataFront](https://github.com/emilindadie/BankAccountKataFront)
+[kataBankFront](https://github.com/fabricedano/kataBankFront)
 
 # Angular 2+ FrontEnd Dependance
 
-[BankAccountKataFrontAngularNgrx](https://github.com/emilindadie/BankAccountKataFrontAngularNgrx)
+[kataBankFrontAngular](https://github.com/fabricedano/kataBankFrontAngular)
 
 
 # Others same BackEnd which has been built with NodejS and expressJS
 
-[BankAccountkataApi](https://github.com/emilindadie/BankAccountKataApi)
+[kataBankAPI](https://github.com/fabricedano/kataBankAPI)
 
 
 # Configurations
